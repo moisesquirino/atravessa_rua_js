@@ -1,1 +1,1 @@
-# atravessa_rua_js
+Utilizamos JavaScript para recriar o jogo do Atari Freeway.
